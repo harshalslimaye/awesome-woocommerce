@@ -23,6 +23,8 @@ A curated list of free and open source [WooCommerce](https://wordpress.org/plugi
 - [WooCommerce Checkout Terms Conditions Popup] (https://wordpress.org/plugins/woocommerce-checkout-terms-conditions-popup/) - Opens terms and conditions in a pop up
 - [Order Delivery Date for WooCommerce] (https://wordpress.org/plugins/order-delivery-date-for-woocommerce/) - Allow the customers to choose an order delivery date on the checkout page
 - [WooCommerce Direct Checkout] (https://wordpress.org/plugins/woocommerce-direct-checkout/) - You can skip shopping cart page and implement add to cart button redirect to checkout page or you can redirect to other existing page
+- [Weight/Country Shipping for WooCommerce] (https://wordpress.org/plugins/oik-weightcountry-shipping/) - Adds per-country and weight based shipping cost calculation method to your WooCommerce store
+- [Minimum Purchase for WooCommerce] (https://wordpress.org/plugins/minimum-purchase-for-woocommerce/) - This plugin allows you to set up minimum purchase rules for products in your store
 
 ### Import And Export
 - [Woocommerce CSV importer] (https://wordpress.org/plugins/woocommerce-csvimport/) - Import products into WooCommerce
@@ -57,3 +59,5 @@ A curated list of free and open source [WooCommerce](https://wordpress.org/plugi
 - [WooCommerce MailChimp] (https://wordpress.org/plugins/woocommerce-mailchimp/) - Simple and flexible MailChimp integration for WooCommerce
 - [Product Import Export for WooCommerce] (https://wordpress.org/plugins/product-import-export-for-woo/) - Easily import WooCommerce Products and Export products using this Plugin. Import Products from any CSV to WooCommerce
 - [Woo Import Export] (https://wordpress.org/plugins/woo-import-export-lite/) - All in one solution for WooCommerce Store. Easily Import and Export WooCommerce Store Products, Orders, Users, Product Categories and Coupons
+- [WooCommerce Multilingual] (https://wordpress.org/plugins/woocommerce-multilingual/) - Allows running fully multilingual e-commerce sites using WooCommerce and WPML
+- [WooCommerce Colors] (https://wordpress.org/plugins/woocommerce-colors/) - Allows you to change the buttons color and other elements of WooCommerce
