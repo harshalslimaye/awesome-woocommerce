@@ -5,9 +5,9 @@ A curated list of free and open source [WooCommerce](https://wordpress.org/plugi
 - [Cart](#cart)
 - [Checkout] (#checkout)
 - [Import And Export] (#import-and-export)
-- [Miscellaneous](#miscellaneous)
 - [Payments](#payments)
 - [Products](#products)
+- [Miscellaneous](#miscellaneous)
 
 ## Plugins
 ### Cart
@@ -29,15 +29,6 @@ A curated list of free and open source [WooCommerce](https://wordpress.org/plugi
 - [WooCommerce - Product Importer] (https://wordpress.org/plugins/woocommerce-product-importer/) - Import new Products into your WooCommerce store from simple formatted files 
 - [Woocommerce Doo Products and Variations Exporter](https://wordpress.org/plugins/woocommerce-products-exporter/) - A quick, easy and essential WooCommerce product to Export & Import your store products
 
-### Miscellaneous
-- [WooCommerce Accommodation Bookings](https://wordpress.org/plugins/woocommerce-accommodation-bookings/) - An add-on for WooCommerce Bookings, making it easier to sell hotel rooms, apartments, and spaces to your customers with WooCommerce
-- [WooCommerce Google Analytics Integration] (https://wordpress.org/plugins/woocommerce-google-analytics-integration/) - Provides integration between Google Analytics and WooCommerce
-- [WooCommerce Customizer] (https://wordpress.org/plugins/woocommerce-customizer/) - Helps you customize WooCommerce without writing any code
-- [WooCommerce Shortcodes] (https://wordpress.org/plugins/woocommerce-shortcodes/) - Adds a button in TinyMCE editor allowing use of WooCommerce shortcodes
-- [WooCommerce MailChimp] (https://wordpress.org/plugins/woocommerce-mailchimp/) - Simple and flexible MailChimp integration for WooCommerce
-- [Product Import Export for WooCommerce] (https://wordpress.org/plugins/product-import-export-for-woo/) - Easily import WooCommerce Products and Export products using this Plugin. Import Products from any CSV to WooCommerce
-- [Woo Import Export] (https://wordpress.org/plugins/woo-import-export-lite/) - All in one solution for WooCommerce Store. Easily Import and Export WooCommerce Store Products, Orders, Users, Product Categories and Coupons
-
 ### Payments
 - [WooCommerce PayPal Express Checkout Payment Gateway] (https://wordpress.org/plugins/woocommerce-gateway-paypal-express-checkout/) - PayPal Express Payment Gateway for WooCommerce
 - [WooCommerce Stripe Payment Gateway] (https://wordpress.org/plugins/woocommerce-gateway-stripe/) - Take credit card payments on your store using Stripe
@@ -57,3 +48,12 @@ A curated list of free and open source [WooCommerce](https://wordpress.org/plugi
 - [YITH WooCommerce Zoom Magnifier] (https://wordpress.org/plugins/yith-woocommerce-zoom-magnifier/) - Adds zoom effect to product images and a customizable image slider
 - [YITH WooCommerce Badge Management] (https://wordpress.org/plugins/yith-woocommerce-badges-management/) - YITH WooCommerce Badge Management allows you to create and manage custom badges for products
 - [Woocommerce Image Zoom] (https://wordpress.org/plugins/woocommerce-image-zoom/) - Adds zoom feature to product images with LightBox popup image gallery
+
+### Miscellaneous
+- [WooCommerce Accommodation Bookings](https://wordpress.org/plugins/woocommerce-accommodation-bookings/) - An add-on for WooCommerce Bookings, making it easier to sell hotel rooms, apartments, and spaces to your customers with WooCommerce
+- [WooCommerce Google Analytics Integration] (https://wordpress.org/plugins/woocommerce-google-analytics-integration/) - Provides integration between Google Analytics and WooCommerce
+- [WooCommerce Customizer] (https://wordpress.org/plugins/woocommerce-customizer/) - Helps you customize WooCommerce without writing any code
+- [WooCommerce Shortcodes] (https://wordpress.org/plugins/woocommerce-shortcodes/) - Adds a button in TinyMCE editor allowing use of WooCommerce shortcodes
+- [WooCommerce MailChimp] (https://wordpress.org/plugins/woocommerce-mailchimp/) - Simple and flexible MailChimp integration for WooCommerce
+- [Product Import Export for WooCommerce] (https://wordpress.org/plugins/product-import-export-for-woo/) - Easily import WooCommerce Products and Export products using this Plugin. Import Products from any CSV to WooCommerce
+- [Woo Import Export] (https://wordpress.org/plugins/woo-import-export-lite/) - All in one solution for WooCommerce Store. Easily Import and Export WooCommerce Store Products, Orders, Users, Product Categories and Coupons
