@@ -5,6 +5,7 @@ A curated list of free and open source [WooCommerce](https://wordpress.org/plugi
 - [Cart](#cart)
 - [Checkout] (#checkout)
 - [Import And Export] (#import-and-export)
+- [Internationalization] (#internationalization)
 - [Payments](#payments)
 - [Products](#products)
 - [Miscellaneous](#miscellaneous)
@@ -31,6 +32,9 @@ A curated list of free and open source [WooCommerce](https://wordpress.org/plugi
 - [Woocommerce CSV importer] (https://wordpress.org/plugins/woocommerce-csvimport/) - Import products into WooCommerce
 - [WooCommerce - Product Importer] (https://wordpress.org/plugins/woocommerce-product-importer/) - Import new Products into your WooCommerce store from simple formatted files 
 - [Woocommerce Doo Products and Variations Exporter](https://wordpress.org/plugins/woocommerce-products-exporter/) - A quick, easy and essential WooCommerce product to Export & Import your store products
+
+### Internationalization
+- [WooCommerce Multilingual] (https://wordpress.org/plugins/woocommerce-multilingual/) - Allows running fully multilingual e-commerce sites using WooCommerce and WPML
 
 ### Payments
 - [WooCommerce PayPal Express Checkout Payment Gateway] (https://wordpress.org/plugins/woocommerce-gateway-paypal-express-checkout/) - PayPal Express Payment Gateway for WooCommerce
@@ -61,6 +65,5 @@ A curated list of free and open source [WooCommerce](https://wordpress.org/plugi
 - [WooCommerce MailChimp] (https://wordpress.org/plugins/woocommerce-mailchimp/) - Simple and flexible MailChimp integration for WooCommerce
 - [Product Import Export for WooCommerce] (https://wordpress.org/plugins/product-import-export-for-woo/) - Easily import WooCommerce Products and Export products using this Plugin. Import Products from any CSV to WooCommerce
 - [Woo Import Export] (https://wordpress.org/plugins/woo-import-export-lite/) - All in one solution for WooCommerce Store. Easily Import and Export WooCommerce Store Products, Orders, Users, Product Categories and Coupons
-- [WooCommerce Multilingual] (https://wordpress.org/plugins/woocommerce-multilingual/) - Allows running fully multilingual e-commerce sites using WooCommerce and WPML
 - [WooCommerce Colors] (https://wordpress.org/plugins/woocommerce-colors/) - Allows you to change the buttons color and other elements of WooCommerce
 - [WooCommerce Catalog Enquiry] (https://wordpress.org/plugins/woocommerce-catalog-enquiry/) - Allows the user to convert a WooCommerce store into a catalog website
