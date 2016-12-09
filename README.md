@@ -43,6 +43,7 @@ A curated list of free and open source [WooCommerce](https://wordpress.org/plugi
 - [Woocommerce CSV importer] (https://wordpress.org/plugins/woocommerce-csvimport/) - Import products into WooCommerce
 - [WooCommerce - Product Importer] (https://wordpress.org/plugins/woocommerce-product-importer/) - Import new Products into your WooCommerce store from simple formatted files 
 - [Woocommerce Doo Products and Variations Exporter](https://wordpress.org/plugins/woocommerce-products-exporter/) - A quick, easy and essential WooCommerce product to Export & Import your store products
+- [WooCommerce Simply Order Export] (https://wordpress.org/plugins/woocommerce-simply-order-export/) - Export WooCommerce order details in csv format.
 
 ### Internationalization
 - [WooCommerce Multilingual] (https://wordpress.org/plugins/woocommerce-multilingual/) - Allows running fully multilingual e-commerce sites using WooCommerce and WPML
