@@ -4,6 +4,7 @@ A curated list of free and open source [WooCommerce](https://wordpress.org/plugi
 ## Contents
 - [Cart](#cart)
 - [Checkout] (#checkout)
+- [Coupons] (#coupons)
 - [Email Marketing] (#email-marketing)
 - [Import And Export] (#import-and-export)
 - [Internationalization] (#internationalization)
@@ -30,6 +31,9 @@ A curated list of free and open source [WooCommerce](https://wordpress.org/plugi
 - [Weight/Country Shipping for WooCommerce] (https://wordpress.org/plugins/oik-weightcountry-shipping/) - Adds per-country and weight based shipping cost calculation method to your WooCommerce store
 - [Minimum Purchase for WooCommerce] (https://wordpress.org/plugins/minimum-purchase-for-woocommerce/) - This plugin allows you to set up minimum purchase rules for products in your store
 - [WooCommerce Upload My File] (https://wordpress.org/plugins/woocommerce-upload-my-file/) - Adds the possibility to upload a file after an order is completed and attached it to that order
+
+### Coupons
+- [WooCommerce Extended Coupon Features] (https://wordpress.org/plugins/woocommerce-auto-added-coupons/) - Allow discounts to be automatically applied, applying coupons via url
 
 ### Email Marketing
 - [WooCommerce MailChimp] (https://wordpress.org/plugins/woocommerce-mailchimp/) - Simple and flexible MailChimp integration for WooCommerce
