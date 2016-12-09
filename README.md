@@ -70,3 +70,4 @@ A curated list of free and open source [WooCommerce](https://wordpress.org/plugi
 - [Woo Import Export] (https://wordpress.org/plugins/woo-import-export-lite/) - All in one solution for WooCommerce Store. Easily Import and Export WooCommerce Store Products, Orders, Users, Product Categories and Coupons
 - [WooCommerce Colors] (https://wordpress.org/plugins/woocommerce-colors/) - Allows you to change the buttons color and other elements of WooCommerce
 - [WooCommerce Catalog Enquiry] (https://wordpress.org/plugins/woocommerce-catalog-enquiry/) - Allows the user to convert a WooCommerce store into a catalog website
+- [WC Vendors] (https://wordpress.org/plugins/wc-vendors/) - Allows other sellers/vendors to sell tangible products, virtual products, or downloads on your site
