@@ -37,6 +37,7 @@ A curated list of free and open source [WooCommerce](https://wordpress.org/plugi
 
 ### Email Marketing
 - [WooCommerce MailChimp] (https://wordpress.org/plugins/woocommerce-mailchimp/) - Simple and flexible MailChimp integration for WooCommerce
+- [MailPoet WooCommerce Add-on] (https://wordpress.org/plugins/mailpoet-woocommerce-add-on/) - Let your customers subscribe to your newsletter/s as they checkout with their purchase.
 
 ### Import And Export
 - [Woocommerce CSV importer] (https://wordpress.org/plugins/woocommerce-csvimport/) - Import products into WooCommerce
