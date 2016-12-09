@@ -25,6 +25,7 @@ A curated list of free and open source [WooCommerce](https://wordpress.org/plugi
 - [WooCommerce Direct Checkout] (https://wordpress.org/plugins/woocommerce-direct-checkout/) - You can skip shopping cart page and implement add to cart button redirect to checkout page or you can redirect to other existing page
 - [Weight/Country Shipping for WooCommerce] (https://wordpress.org/plugins/oik-weightcountry-shipping/) - Adds per-country and weight based shipping cost calculation method to your WooCommerce store
 - [Minimum Purchase for WooCommerce] (https://wordpress.org/plugins/minimum-purchase-for-woocommerce/) - This plugin allows you to set up minimum purchase rules for products in your store
+- [WooCommerce Upload My File] (https://wordpress.org/plugins/woocommerce-upload-my-file/) - Adds the possibility to upload a file after an order is completed and attached it to that order
 
 ### Import And Export
 - [Woocommerce CSV importer] (https://wordpress.org/plugins/woocommerce-csvimport/) - Import products into WooCommerce
@@ -61,3 +62,4 @@ A curated list of free and open source [WooCommerce](https://wordpress.org/plugi
 - [Woo Import Export] (https://wordpress.org/plugins/woo-import-export-lite/) - All in one solution for WooCommerce Store. Easily Import and Export WooCommerce Store Products, Orders, Users, Product Categories and Coupons
 - [WooCommerce Multilingual] (https://wordpress.org/plugins/woocommerce-multilingual/) - Allows running fully multilingual e-commerce sites using WooCommerce and WPML
 - [WooCommerce Colors] (https://wordpress.org/plugins/woocommerce-colors/) - Allows you to change the buttons color and other elements of WooCommerce
+- [WooCommerce Catalog Enquiry] (https://wordpress.org/plugins/woocommerce-catalog-enquiry/) - Allows the user to convert a WooCommerce store into a catalog website
