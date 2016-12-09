@@ -3,8 +3,8 @@ A curated list of free and open source [WooCommerce](https://wordpress.org/plugi
 
 ## Contents
 - [Cart](#cart)
-- [Email Marketing] (#email-marketing)
 - [Checkout] (#checkout)
+- [Email Marketing] (#email-marketing)
 - [Import And Export] (#import-and-export)
 - [Internationalization] (#internationalization)
 - [Orders] (#orders)
