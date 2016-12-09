@@ -9,6 +9,7 @@ A curated list of free and open source [WooCommerce](https://wordpress.org/plugi
 - [Internationalization] (#internationalization)
 - [Payments](#payments)
 - [Products](#products)
+- [Shipping] (#shipping)
 - [Miscellaneous](#miscellaneous)
 
 ## Plugins
@@ -61,6 +62,10 @@ A curated list of free and open source [WooCommerce](https://wordpress.org/plugi
 - [YITH WooCommerce Badge Management] (https://wordpress.org/plugins/yith-woocommerce-badges-management/) - YITH WooCommerce Badge Management allows you to create and manage custom badges for products
 - [Woocommerce Image Zoom] (https://wordpress.org/plugins/woocommerce-image-zoom/) - Adds zoom feature to product images with LightBox popup image gallery
 - [WooCommerce Products Per Page] (https://wordpress.org/plugins/woocommerce-products-per-page/) - integrates a 'products per page' dropdown on your WooCommerce pages
+
+### Shipping
+- [WooCommerce Advanced Free Shipping] (https://wordpress.org/plugins/woocommerce-advanced-free-shipping/) - Allows you to set up advanced free shipping conditions
+- [Woocommerce Shipping Gateway per Product] (https://wordpress.org/plugins/woocommerce-shipping-gateway-per-product/) - Lets you select the available shippings for each individual product
 
 ### Miscellaneous
 - [WooCommerce Accommodation Bookings](https://wordpress.org/plugins/woocommerce-accommodation-bookings/) - An add-on for WooCommerce Bookings, making it easier to sell hotel rooms, apartments, and spaces to your customers with WooCommerce
