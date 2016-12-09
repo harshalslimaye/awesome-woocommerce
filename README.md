@@ -7,6 +7,7 @@ A curated list of free and open source [WooCommerce](https://wordpress.org/plugi
 - [Checkout] (#checkout)
 - [Import And Export] (#import-and-export)
 - [Internationalization] (#internationalization)
+- [Orders] (#orders)
 - [Payments](#payments)
 - [Products](#products)
 - [Shipping] (#shipping)
@@ -41,6 +42,9 @@ A curated list of free and open source [WooCommerce](https://wordpress.org/plugi
 ### Internationalization
 - [WooCommerce Multilingual] (https://wordpress.org/plugins/woocommerce-multilingual/) - Allows running fully multilingual e-commerce sites using WooCommerce and WPML
 - [WooCommerce Germanized] (https://wordpress.org/plugins/woocommerce-germanized/) - To perfectly adapt WooCommerce to meet the special requirements of german market
+
+### Orders
+- [WooCommerce Sequential Order Numbers] (https://wordpress.org/plugins/woocommerce-sequential-order-numbers/) - Extends WooCommerce by setting sequential order numbers for new orders
 
 ### Payments
 - [WooCommerce PayPal Express Checkout Payment Gateway] (https://wordpress.org/plugins/woocommerce-gateway-paypal-express-checkout/) - PayPal Express Payment Gateway for WooCommerce
