@@ -39,6 +39,7 @@ A curated list of free and open source [WooCommerce](https://wordpress.org/plugi
 
 ### Internationalization
 - [WooCommerce Multilingual] (https://wordpress.org/plugins/woocommerce-multilingual/) - Allows running fully multilingual e-commerce sites using WooCommerce and WPML
+- [WooCommerce Germanized] (https://wordpress.org/plugins/woocommerce-germanized/) - To perfectly adapt WooCommerce to meet the special requirements of german market
 
 ### Payments
 - [WooCommerce PayPal Express Checkout Payment Gateway] (https://wordpress.org/plugins/woocommerce-gateway-paypal-express-checkout/) - PayPal Express Payment Gateway for WooCommerce
