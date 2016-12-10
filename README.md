@@ -34,6 +34,7 @@ A curated list of free and open source [WooCommerce](https://wordpress.org/plugi
 
 ### Coupons
 - [WooCommerce Extended Coupon Features] (https://wordpress.org/plugins/woocommerce-auto-added-coupons/) - Allow discounts to be automatically applied, applying coupons via url
+- [Coupon Generator for WooCommerce] (https://wordpress.org/plugins/coupon-generator-for-woocommerce/) - Generate WooCommerce coupons easily and fast.
 
 ### Email Marketing
 - [WooCommerce MailChimp] (https://wordpress.org/plugins/woocommerce-mailchimp/) - Simple and flexible MailChimp integration for WooCommerce
@@ -76,6 +77,7 @@ A curated list of free and open source [WooCommerce](https://wordpress.org/plugi
 - [YITH WooCommerce Badge Management] (https://wordpress.org/plugins/yith-woocommerce-badges-management/) - YITH WooCommerce Badge Management allows you to create and manage custom badges for products
 - [Woocommerce Image Zoom] (https://wordpress.org/plugins/woocommerce-image-zoom/) - Adds zoom feature to product images with LightBox popup image gallery
 - [WooCommerce Products Per Page] (https://wordpress.org/plugins/woocommerce-products-per-page/) - integrates a 'products per page' dropdown on your WooCommerce pages
+- [WooCommerce Video Product Tab] (https://wordpress.org/plugins/woocommerce-video-product-tab/) - Extends WooCommerce to allow you to add a Video to the Product page
 
 ### Shipping
 - [WooCommerce Advanced Free Shipping] (https://wordpress.org/plugins/woocommerce-advanced-free-shipping/) - Allows you to set up advanced free shipping conditions
@@ -89,3 +91,4 @@ A curated list of free and open source [WooCommerce](https://wordpress.org/plugi
 - [WooCommerce Colors] (https://wordpress.org/plugins/woocommerce-colors/) - Allows you to change the buttons color and other elements of WooCommerce
 - [WooCommerce Catalog Enquiry] (https://wordpress.org/plugins/woocommerce-catalog-enquiry/) - Allows the user to convert a WooCommerce store into a catalog website
 - [WC Vendors] (https://wordpress.org/plugins/wc-vendors/) - Allows other sellers/vendors to sell tangible products, virtual products, or downloads on your site
+- [Booster for WooCommerce] (https://wordpress.org/plugins/woocommerce-jetpack/) - A plugin that supercharges your site with awesome powerful features
