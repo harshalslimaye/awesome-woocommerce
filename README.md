@@ -44,6 +44,9 @@ A curated list of free and open source [WooCommerce](https://wordpress.org/plugi
 - [WooCommerce - Product Importer] (https://wordpress.org/plugins/woocommerce-product-importer/) - Import new Products into your WooCommerce store from simple formatted files 
 - [Woocommerce Doo Products and Variations Exporter](https://wordpress.org/plugins/woocommerce-products-exporter/) - A quick, easy and essential WooCommerce product to Export & Import your store products
 - [WooCommerce Simply Order Export] (https://wordpress.org/plugins/woocommerce-simply-order-export/) - Export WooCommerce order details in csv format.
+- [Product Import Export for WooCommerce] (https://wordpress.org/plugins/product-import-export-for-woo/) - Easily import WooCommerce Products and Export products using this Plugin. Import Products from any CSV to WooCommerce
+- [Woo Import Export] (https://wordpress.org/plugins/woo-import-export-lite/) - All in one solution for WooCommerce Store. Easily Import and Export WooCommerce Store Products, Orders, Users, Product Categories and Coupons
+- [WooCommerce - Store Exporter] (https://wordpress.org/plugins/woocommerce-exporter/) - Export store details out of WooCommerce into simple formatted files
 
 ### Internationalization
 - [WooCommerce Multilingual] (https://wordpress.org/plugins/woocommerce-multilingual/) - Allows running fully multilingual e-commerce sites using WooCommerce and WPML
@@ -83,8 +86,6 @@ A curated list of free and open source [WooCommerce](https://wordpress.org/plugi
 - [WooCommerce Google Analytics Integration] (https://wordpress.org/plugins/woocommerce-google-analytics-integration/) - Provides integration between Google Analytics and WooCommerce
 - [WooCommerce Customizer] (https://wordpress.org/plugins/woocommerce-customizer/) - Helps you customize WooCommerce without writing any code
 - [WooCommerce Shortcodes] (https://wordpress.org/plugins/woocommerce-shortcodes/) - Adds a button in TinyMCE editor allowing use of WooCommerce shortcodes
-- [Product Import Export for WooCommerce] (https://wordpress.org/plugins/product-import-export-for-woo/) - Easily import WooCommerce Products and Export products using this Plugin. Import Products from any CSV to WooCommerce
-- [Woo Import Export] (https://wordpress.org/plugins/woo-import-export-lite/) - All in one solution for WooCommerce Store. Easily Import and Export WooCommerce Store Products, Orders, Users, Product Categories and Coupons
 - [WooCommerce Colors] (https://wordpress.org/plugins/woocommerce-colors/) - Allows you to change the buttons color and other elements of WooCommerce
 - [WooCommerce Catalog Enquiry] (https://wordpress.org/plugins/woocommerce-catalog-enquiry/) - Allows the user to convert a WooCommerce store into a catalog website
 - [WC Vendors] (https://wordpress.org/plugins/wc-vendors/) - Allows other sellers/vendors to sell tangible products, virtual products, or downloads on your site
