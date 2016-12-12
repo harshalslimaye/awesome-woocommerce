@@ -79,7 +79,7 @@ A curated list of free and open source [WooCommerce](https://wordpress.org/plugi
 - [WooCommerce Products Per Page] (https://wordpress.org/plugins/woocommerce-products-per-page/) - integrates a 'products per page' dropdown on your WooCommerce pages
 - [WooCommerce Video Product Tab] (https://wordpress.org/plugins/woocommerce-video-product-tab/) - Extends WooCommerce to allow you to add a Video to the Product page
 - [YITH Infinite Scrolling] (https://wordpress.org/plugins/yith-infinite-scrolling/) - Add infinite scrolling to archive post or shop page.
-
+- [YITH WooCommerce Compare] (https://wordpress.org/plugins/yith-woocommerce-compare/) - Allows you to compare more products of your shop in one complete table.
 ### Shipping
 - [WooCommerce Advanced Free Shipping] (https://wordpress.org/plugins/woocommerce-advanced-free-shipping/) - Allows you to set up advanced free shipping conditions
 - [Woocommerce Shipping Gateway per Product] (https://wordpress.org/plugins/woocommerce-shipping-gateway-per-product/) - Lets you select the available shippings for each individual product
