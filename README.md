@@ -78,6 +78,7 @@ A curated list of free and open source [WooCommerce](https://wordpress.org/plugi
 - [Woocommerce Image Zoom] (https://wordpress.org/plugins/woocommerce-image-zoom/) - Adds zoom feature to product images with LightBox popup image gallery
 - [WooCommerce Products Per Page] (https://wordpress.org/plugins/woocommerce-products-per-page/) - integrates a 'products per page' dropdown on your WooCommerce pages
 - [WooCommerce Video Product Tab] (https://wordpress.org/plugins/woocommerce-video-product-tab/) - Extends WooCommerce to allow you to add a Video to the Product page
+- [YITH Infinite Scrolling] (https://wordpress.org/plugins/yith-infinite-scrolling/) - Add infinite scrolling to archive post or shop page.
 
 ### Shipping
 - [WooCommerce Advanced Free Shipping] (https://wordpress.org/plugins/woocommerce-advanced-free-shipping/) - Allows you to set up advanced free shipping conditions
