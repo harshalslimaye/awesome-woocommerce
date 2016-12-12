@@ -92,3 +92,4 @@ A curated list of free and open source [WooCommerce](https://wordpress.org/plugi
 - [WooCommerce Catalog Enquiry] (https://wordpress.org/plugins/woocommerce-catalog-enquiry/) - Allows the user to convert a WooCommerce store into a catalog website
 - [WC Vendors] (https://wordpress.org/plugins/wc-vendors/) - Allows other sellers/vendors to sell tangible products, virtual products, or downloads on your site
 - [Booster for WooCommerce] (https://wordpress.org/plugins/woocommerce-jetpack/) - A plugin that supercharges your site with awesome powerful features
+- [YITH WooCommerce Ajax Search] (https://wordpress.org/plugins/yith-woocommerce-ajax-search/) - YITH WooCommerce Ajax Search allows your users to search products in real time.
