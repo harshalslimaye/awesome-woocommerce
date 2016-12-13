@@ -29,8 +29,8 @@ A curated list of free and open source [WooCommerce](https://wordpress.org/plugi
 - [Order Delivery Date for WooCommerce] (https://wordpress.org/plugins/order-delivery-date-for-woocommerce/) - Allow the customers to choose an order delivery date on the checkout page
 - [WooCommerce Direct Checkout] (https://wordpress.org/plugins/woocommerce-direct-checkout/) - Skip cart page and implement add to cart button redirect to checkout page
 - [Weight/Country Shipping for WooCommerce] (https://wordpress.org/plugins/oik-weightcountry-shipping/) - Adds per-country and weight based shipping cost calculation method
-- [Minimum Purchase for WooCommerce] (https://wordpress.org/plugins/minimum-purchase-for-woocommerce/) - This plugin allows you to set up minimum purchase rules for products in your store
-- [WooCommerce Upload My File] (https://wordpress.org/plugins/woocommerce-upload-my-file/) - Allows customers to upload a file after an order is completed and attached it to that order
+- [Minimum Purchase for WooCommerce] (https://wordpress.org/plugins/minimum-purchase-for-woocommerce/) - Allows you to set up minimum purchase rules for products in your store
+- [WooCommerce Upload My File] (https://wordpress.org/plugins/woocommerce-upload-my-file/) - Allows customers to upload a file and attached it to their order
 
 ### Coupons
 - [WooCommerce Extended Coupon Features] (https://wordpress.org/plugins/woocommerce-auto-added-coupons/) - Allow discounts to be automatically applied, applying coupons via url
