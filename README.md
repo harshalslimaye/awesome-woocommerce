@@ -54,8 +54,8 @@ A curated list of free and open source [WooCommerce](https://wordpress.org/plugi
 - [WooCommerce Germanized] (https://wordpress.org/plugins/woocommerce-germanized/) - To perfectly adapt WooCommerce to meet the special requirements of german market
 
 ### Orders
-- [WooCommerce Sequential Order Numbers] (https://wordpress.org/plugins/woocommerce-sequential-order-numbers/) - Extends WooCommerce by setting sequential order numbers for new orders
-- [Status Tracking] (https://wordpress.org/plugins/order-tracking/) - allows you to post order/project status updates, collect payments, import from WooCommerce and auto send email notification
+- [WooCommerce Sequential Order Numbers] (https://wordpress.org/plugins/woocommerce-sequential-order-numbers/) - Set sequential order numbers for new orders
+- [Status Tracking] (https://wordpress.org/plugins/order-tracking/) - Post order/project status updates, collect payments, import from WooCommerce and auto send email notification
 
 ### Payments
 - [WooCommerce PayPal Express Checkout Payment Gateway] (https://wordpress.org/plugins/woocommerce-gateway-paypal-express-checkout/) - PayPal Express Payment Gateway for WooCommerce
