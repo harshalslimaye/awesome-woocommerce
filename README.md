@@ -43,11 +43,11 @@ A curated list of free and open source [WooCommerce](https://wordpress.org/plugi
 ### Import And Export
 - [Woocommerce CSV importer] (https://wordpress.org/plugins/woocommerce-csvimport/) - Import products into WooCommerce
 - [WooCommerce - Product Importer] (https://wordpress.org/plugins/woocommerce-product-importer/) - Import new Products into your WooCommerce store from simple formatted files 
-- [Woocommerce Doo Products and Variations Exporter](https://wordpress.org/plugins/woocommerce-products-exporter/) - A quick, easy and essential WooCommerce product to Export & Import your store products
+- [Woocommerce Doo Products and Variations Exporter](https://wordpress.org/plugins/woocommerce-products-exporter/) - Export & Import store products
 - [WooCommerce Simply Order Export] (https://wordpress.org/plugins/woocommerce-simply-order-export/) - Export WooCommerce order details in csv format.
-- [Product Import Export for WooCommerce] (https://wordpress.org/plugins/product-import-export-for-woo/) - Easily import WooCommerce Products and Export products using this Plugin. Import Products from any CSV to WooCommerce
-- [Woo Import Export] (https://wordpress.org/plugins/woo-import-export-lite/) - All in one solution for WooCommerce Store. Easily Import and Export WooCommerce Store Products, Orders, Users, Product Categories and Coupons
-- [WooCommerce - Store Exporter] (https://wordpress.org/plugins/woocommerce-exporter/) - Export store details out of WooCommerce into simple formatted files
+- [Product Import Export for WooCommerce] (https://wordpress.org/plugins/product-import-export-for-woo/) - Import Products from any CSV to WooCommerce
+- [Woo Import Export] (https://wordpress.org/plugins/woo-import-export-lite/) - Import and Export WooCommerce Store Products, Orders, Users, Product Categories and Coupons
+- [WooCommerce - Store Exporter] (https://wordpress.org/plugins/woocommerce-exporter/) - Export store details out of WooCommerce
 
 ### Internationalization
 - [WooCommerce Multilingual] (https://wordpress.org/plugins/woocommerce-multilingual/) - Allows running fully multilingual e-commerce sites using WooCommerce and WPML
