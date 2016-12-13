@@ -20,17 +20,17 @@ A curated list of free and open source [WooCommerce](https://wordpress.org/plugi
 - [WooCommerce Cart Tab] (https://wordpress.org/plugins/woocommerce-cart-tab/) - Displays a sitewide link to the WooCommerce cart which reveals the cart contents on hover
 - [WooCommerce Bulk Discount] (https://wordpress.org/plugins/woocommerce-bulk-discount/) - Apply fine-grained bulk discounts to items in the shopping cart
 - [YITH WooCommerce Cart Messages] (https://wordpress.org/plugins/yith-woocommerce-cart-messages/) - Lets you add custom messages in the cart page
-- [Abandoned Cart Lite for WooCommerce] (https://wordpress.org/plugins/woocommerce-abandoned-cart/) - Allows store owners to recover sales that are lost to abandoned shopping carts by customers
+- [Abandoned Cart Lite for WooCommerce] (https://wordpress.org/plugins/woocommerce-abandoned-cart/) - Recover sales that are lost to abandoned shopping carts by customers
 - [WooCommerce Menu Cart] (https://wordpress.org/plugins/woocommerce-menu-bar-cart/) - Automatically displays a cart icon in your menu bar
 
 ### Checkout
-- [WooCommerce Checkout Manager] (https://wordpress.org/plugins/woocommerce-checkout-manager/) - Allows you to customise and manage the fields on your WooCommerce Checkout page
+- [WooCommerce Checkout Manager] (https://wordpress.org/plugins/woocommerce-checkout-manager/) - Allows you to customise and manage the fields on WooCommerce Checkout
 - [WooCommerce Checkout Terms Conditions Popup] (https://wordpress.org/plugins/woocommerce-checkout-terms-conditions-popup/) - Opens terms and conditions in a pop up
 - [Order Delivery Date for WooCommerce] (https://wordpress.org/plugins/order-delivery-date-for-woocommerce/) - Allow the customers to choose an order delivery date on the checkout page
-- [WooCommerce Direct Checkout] (https://wordpress.org/plugins/woocommerce-direct-checkout/) - You can skip shopping cart page and implement add to cart button redirect to checkout page or you can redirect to other existing page
-- [Weight/Country Shipping for WooCommerce] (https://wordpress.org/plugins/oik-weightcountry-shipping/) - Adds per-country and weight based shipping cost calculation method to your WooCommerce store
+- [WooCommerce Direct Checkout] (https://wordpress.org/plugins/woocommerce-direct-checkout/) - Skip cart page and implement add to cart button redirect to checkout page
+- [Weight/Country Shipping for WooCommerce] (https://wordpress.org/plugins/oik-weightcountry-shipping/) - Adds per-country and weight based shipping cost calculation method
 - [Minimum Purchase for WooCommerce] (https://wordpress.org/plugins/minimum-purchase-for-woocommerce/) - This plugin allows you to set up minimum purchase rules for products in your store
-- [WooCommerce Upload My File] (https://wordpress.org/plugins/woocommerce-upload-my-file/) - Adds the possibility to upload a file after an order is completed and attached it to that order
+- [WooCommerce Upload My File] (https://wordpress.org/plugins/woocommerce-upload-my-file/) - Allows customers to upload a file after an order is completed and attached it to that order
 
 ### Coupons
 - [WooCommerce Extended Coupon Features] (https://wordpress.org/plugins/woocommerce-auto-added-coupons/) - Allow discounts to be automatically applied, applying coupons via url
@@ -38,7 +38,7 @@ A curated list of free and open source [WooCommerce](https://wordpress.org/plugi
 
 ### Email Marketing
 - [WooCommerce MailChimp] (https://wordpress.org/plugins/woocommerce-mailchimp/) - Simple and flexible MailChimp integration for WooCommerce
-- [MailPoet WooCommerce Add-on] (https://wordpress.org/plugins/mailpoet-woocommerce-add-on/) - Let your customers subscribe to your newsletter/s as they checkout with their purchase.
+- [MailPoet WooCommerce Add-on] (https://wordpress.org/plugins/mailpoet-woocommerce-add-on/) - Allows customers subscribe to your newsletter as they checkout
 
 ### Import And Export
 - [Woocommerce CSV importer] (https://wordpress.org/plugins/woocommerce-csvimport/) - Import products into WooCommerce
