@@ -62,13 +62,13 @@ A curated list of free and open source [WooCommerce](https://wordpress.org/plugi
 - [WooCommerce Stripe Payment Gateway] (https://wordpress.org/plugins/woocommerce-gateway-stripe/) - Take credit card payments on your store using Stripe
 - [WooCommerce Simplify Commerce Gateway] (https://wordpress.org/plugins/woocommerce-gateway-simplify-commerce/) - The Simplify Commerce gateway for WooCommerce
 - [WooCommerce Mijireh Checkout] (https://wordpress.org/plugins/woocommerce-mijireh-checkout/) - Provides integration between Mijireh Checkout and WooCommerce
-- [WooCommerce PayPal Powered by Braintree Payment Gateway] (https://wordpress.org/plugins/woocommerce-gateway-paypal-powered-by-braintree/) - Accept PayPal, Credit Cards and Debit Cards on your WooCommerce store
-- [CoinPayments.net Payment Gateway for WooCommerce] (https://wordpress.org/plugins/coinpayments-payment-gateway-for-woocommerce/) - Implements a payment gateway for WooCommerce to let buyers pay via CoinPayments
+- [WooCommerce PayPal Powered by Braintree Payment Gateway] (https://wordpress.org/plugins/woocommerce-gateway-paypal-powered-by-braintree/)
+- [CoinPayments.net Payment Gateway for WooCommerce] (https://wordpress.org/plugins/coinpayments-payment-gateway-for-woocommerce/)
 - [Pay with Amazon] (https://woocommerce.com/products/pay-with-amazon/) - Pay with Amazon is embedded in your WooCommerce store
 - [WooCommerce CCAvenue gateway] (https://wordpress.org/plugins/ccavenue-payment-gateway-woocommerce/) - Allows you to use CCAvenue payment gateway with the WooCommerce plugin
 
 ### Products
-- [WooCommerce Product Fees] (https://wordpress.org/plugins/woocommerce-product-fees/) - WooCommerce Product Fees allows you to add additional fees at checkout based on products that are in the cart
+- [WooCommerce Product Fees] (https://wordpress.org/plugins/woocommerce-product-fees/) - Allows you to add additional fees at checkout based on products in the cart
 - [WooCommerce Product Slider] (https://wordpress.org/plugins/woocommerce-product-slider/) - A simple WooCommerce product slider / carousel plugin
 - [WooCommerce Smart Sale Badge] (https://wordpress.org/plugins/woocommerce-smart-sale-badge/) - Enhances the WooCommerce sale badge by displaying the total saving a customer will receive
 - [WooCommerce PDF & Print] (https://wordpress.org/plugins/woocommerce-pdf-print/screenshots/) - Adds PDF, Doc and Print buttons on WooCommerce Product Page. Allows print and save product information as PDF and MS Doc file
