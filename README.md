@@ -70,7 +70,7 @@ A curated list of free and open source [WooCommerce](https://wordpress.org/plugi
 ### Products
 - [WooCommerce Product Fees] (https://wordpress.org/plugins/woocommerce-product-fees/) - Allows you to add additional fees at checkout based on products in the cart
 - [WooCommerce Product Slider] (https://wordpress.org/plugins/woocommerce-product-slider/) - A simple WooCommerce product slider / carousel plugin
-- [WooCommerce Smart Sale Badge] (https://wordpress.org/plugins/woocommerce-smart-sale-badge/) - Enhances the WooCommerce sale badge by displaying the total saving a customer will receive
+- [WooCommerce Smart Sale Badge] (https://wordpress.org/plugins/woocommerce-smart-sale-badge/) - Displays the total saving a customer will receive on sales bades
 - [WooCommerce PDF & Print] (https://wordpress.org/plugins/woocommerce-pdf-print/screenshots/) - Adds PDF, Doc and Print buttons on WooCommerce Product Page. Allows print and save product information as PDF and MS Doc file
 - [WooCommerce - Gift Cards] (https://wordpress.org/plugins/gift-cards-for-woocommerce/) - Gift Cards for WooCommerce allows you to create gift cards that your customers purchase on your site
 - [YITH WooCommerce Zoom Magnifier] (https://wordpress.org/plugins/yith-woocommerce-zoom-magnifier/) - Adds zoom effect to product images and a customizable image slider
