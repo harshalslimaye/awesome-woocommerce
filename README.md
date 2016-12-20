@@ -87,7 +87,7 @@ A curated list of free and open source [WooCommerce](https://wordpress.org/plugi
 - [Woocommerce Shipping Gateway per Product] (https://wordpress.org/plugins/woocommerce-shipping-gateway-per-product/) - Lets you select the available shippings for each individual product
 
 ### Miscellaneous
-- [WooCommerce Accommodation Bookings](https://wordpress.org/plugins/woocommerce-accommodation-bookings/) - An add-on for WooCommerce Bookings, making it easier to sell hotel rooms, apartments, and spaces to your customers with WooCommerce
+- [WooCommerce Accommodation Bookings](https://wordpress.org/plugins/woocommerce-accommodation-bookings/) - Allows you to sell hotel rooms, apartments, and spaces to your customers
 - [WooCommerce Google Analytics Integration] (https://wordpress.org/plugins/woocommerce-google-analytics-integration/) - Provides integration between Google Analytics and WooCommerce
 - [WooCommerce Customizer] (https://wordpress.org/plugins/woocommerce-customizer/) - Helps you customize WooCommerce without writing any code
 - [WooCommerce Shortcodes] (https://wordpress.org/plugins/woocommerce-shortcodes/) - Adds a button in TinyMCE editor allowing use of WooCommerce shortcodes
