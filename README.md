@@ -81,6 +81,7 @@ A curated list of free and open source [WooCommerce](https://wordpress.org/plugi
 - [YITH Infinite Scrolling] (https://wordpress.org/plugins/yith-infinite-scrolling/) - Add infinite scrolling to archive post or shop page.
 - [YITH WooCommerce Compare] (https://wordpress.org/plugins/yith-woocommerce-compare/) - Allows you to compare more products of your shop in one complete table.
 - [YITH WooCommerce Quick View] (https://wordpress.org/plugins/yith-woocommerce-quick-view/) - Adds a quick preview of the products right from product list
+- [WooCommerce Multiple Free Gift] (https://wordpress.org/plugins/woocommerce-multiple-free-gift/) - Best way to offer freebies, gifts or prizes.
 
 ### Shipping
 - [WooCommerce Advanced Free Shipping] (https://wordpress.org/plugins/woocommerce-advanced-free-shipping/) - Allows you to set up advanced free shipping conditions
