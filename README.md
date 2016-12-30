@@ -97,5 +97,5 @@ A curated list of free and open source [WooCommerce](https://wordpress.org/plugi
 - [WC Vendors] (https://wordpress.org/plugins/wc-vendors/) - Allows other sellers/vendors to sell tangible products, virtual products, or downloads on your site
 - [Booster for WooCommerce] (https://wordpress.org/plugins/woocommerce-jetpack/) - A plugin that supercharges your site with awesome powerful features
 - [YITH WooCommerce Ajax Search] (https://wordpress.org/plugins/yith-woocommerce-ajax-search/) - YITH WooCommerce Ajax Search allows your users to search products in real time.
-- [Enhanced Ecommerce Google Analytics Plugin for WooCommerce] (https://wordpress.org/plugins/enhanced-e-commerce-for-woocommerce-store/) - Provides integration between Enhanced Ecommerce feature of Google Analytics and WooCommerce
+- [Enhanced Ecommerce Google Analytics Plugin for WooCommerce] (https://wordpress.org/plugins/enhanced-e-commerce-for-woocommerce-store/)
 - [WooCommerce Google Analytics Integration] (https://wordpress.org/plugins/woocommerce-google-analytics-integration/) - Provides integration between Google Analytics and WooCommerce.
