@@ -74,7 +74,7 @@ A curated list of free and open source [WooCommerce](https://wordpress.org/plugi
 - [WooCommerce PDF & Print] (https://wordpress.org/plugins/woocommerce-pdf-print/screenshots/) - Adds PDF, Doc and Print buttons on WooCommerce Product Page. Allows print and save product information as PDF and MS Doc file
 - [WooCommerce - Gift Cards] (https://wordpress.org/plugins/gift-cards-for-woocommerce/) - Gift Cards for WooCommerce allows you to create gift cards that your customers purchase on your site
 - [YITH WooCommerce Zoom Magnifier] (https://wordpress.org/plugins/yith-woocommerce-zoom-magnifier/) - Adds zoom effect to product images and a customizable image slider
-- [YITH WooCommerce Badge Management] (https://wordpress.org/plugins/yith-woocommerce-badges-management/) - YITH WooCommerce Badge Management allows you to create and manage custom badges for products
+- [YITH WooCommerce Badge Management] (https://wordpress.org/plugins/yith-woocommerce-badges-management/) - Create and manage custom badges for products
 - [Woocommerce Image Zoom] (https://wordpress.org/plugins/woocommerce-image-zoom/) - Adds zoom feature to product images with LightBox popup image gallery
 - [WooCommerce Products Per Page] (https://wordpress.org/plugins/woocommerce-products-per-page/) - integrates a 'products per page' dropdown on your WooCommerce pages
 - [WooCommerce Video Product Tab] (https://wordpress.org/plugins/woocommerce-video-product-tab/) - Extends WooCommerce to allow you to add a Video to the Product page
