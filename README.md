@@ -37,6 +37,7 @@ A curated list of free and open source [WooCommerce](https://wordpress.org/plugi
 - [Coupon Generator for WooCommerce](https://wordpress.org/plugins/coupon-generator-for-woocommerce/) - Generate WooCommerce coupons easily and fast.
 
 ### Email Marketing
+- [Product Reviews and Ratings for WooCommerce](https://wordpress.org/plugins/sparrow/) - Collect product reviews on autopilot and boost conversions & increase organic CTR with star ratings in Google.
 - [WooCommerce MailChimp](https://wordpress.org/plugins/woocommerce-mailchimp/) - Simple and flexible MailChimp integration for WooCommerce
 - [MailPoet WooCommerce Add-on](https://wordpress.org/plugins/mailpoet-woocommerce-add-on/) - Allows customers subscribe to your newsletter as they checkout
 
